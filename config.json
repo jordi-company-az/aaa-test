@@ -1,5 +1,8 @@
 {
-  "profile": {
-    "title": "Profile Title"
+  "config":
+  {
+    "profile_tile": {
+      "title": "Profile Title"
+    }
   }
 }
